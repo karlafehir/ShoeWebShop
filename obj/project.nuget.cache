@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZD9cjwn69CiuJiG/zNwF5d+RMFpkK0Wq09j9do8lJUfm9tSeD09Cxr/B434F+It9QcZ6xwbKF4ZA9+LjpVzxQ==",
+  "dgSpecHash": "cxdPDgGvb8GZp9oggN3oO9nq32tcu/E1BID3Jw7m5n4Ww1UBNK8YdszgDFK9g9EdZcIBGnGVrb/KD88m0gUXKw==",
   "success": true,
-  "projectFilePath": "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/Shoe-WebShop.csproj",
+  "projectFilePath": "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/ShoeWebShop.csproj",
   "expectedPackageFiles": [
     "/Users/karlafehir/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/karlafehir/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
