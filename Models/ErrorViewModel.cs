@@ -1,4 +1,4 @@
-namespace Shoe_WebShop.Models;
+namespace ShoeWebShop.Models;
 
 public class ErrorViewModel
 {

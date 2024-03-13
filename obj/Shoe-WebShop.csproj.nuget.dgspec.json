@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karlafehir/Desktop/C-Edu/Shoe-WebShop/Shoe-WebShop.csproj": {}
+    "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/Shoe-WebShop.csproj": {}
   },
   "projects": {
-    "/Users/karlafehir/Desktop/C-Edu/Shoe-WebShop/Shoe-WebShop.csproj": {
+    "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/Shoe-WebShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karlafehir/Desktop/C-Edu/Shoe-WebShop/Shoe-WebShop.csproj",
+        "projectUniqueName": "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/Shoe-WebShop.csproj",
         "projectName": "Shoe-WebShop",
-        "projectPath": "/Users/karlafehir/Desktop/C-Edu/Shoe-WebShop/Shoe-WebShop.csproj",
+        "projectPath": "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/Shoe-WebShop.csproj",
         "packagesPath": "/Users/karlafehir/.nuget/packages/",
-        "outputPath": "/Users/karlafehir/Desktop/C-Edu/Shoe-WebShop/obj/",
+        "outputPath": "/Users/karlafehir/Desktop/C-Edu/ShoeWebShop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karlafehir/.nuget/NuGet/NuGet.Config"

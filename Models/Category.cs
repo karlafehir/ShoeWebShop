@@ -1,7 +1,7 @@
 
 using System.ComponentModel.DataAnnotations;
 
-namespace Shoe_WebShop.Models;
+namespace ShoeWebShop.Models;
 
 public class Category
 {

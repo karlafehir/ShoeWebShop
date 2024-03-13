@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Shoe_WebShop.Data;
+using ShoeWebShop.Data;
 
 #nullable disable
 
-namespace Shoe_WebShop.Migrations
+namespace ShoeWebShop.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20240310172012_InitialCreate")]
@@ -24,7 +24,7 @@ namespace Shoe_WebShop.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Shoe_WebShop.Models.Category", b =>
+            modelBuilder.Entity("ShoeWebShop.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

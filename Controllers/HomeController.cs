@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Shoe_WebShop.Models;
+using ShoeWebShop.Models;
 
-namespace Shoe_WebShop.Controllers;
+namespace ShoeWebShop.Controllers;
 
 public class HomeController : Controller
 {

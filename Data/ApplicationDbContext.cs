@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Shoe_WebShop.Models;
+using ShoeWebShop.Models;
 
-namespace Shoe_WebShop.Data;
+namespace ShoeWebShop.Data;
 public class ApplicationDbContext : DbContext
 {
 
